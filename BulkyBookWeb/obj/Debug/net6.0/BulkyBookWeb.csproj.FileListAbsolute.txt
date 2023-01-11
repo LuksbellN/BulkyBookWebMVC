@@ -287,3 +287,17 @@ C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\
 C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.dll
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\belch\OneDrive\dotNET projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Utility.pdb
