@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace BulkyBookWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class AddCategoryToDataBase : Migration
+    public partial class AddCoverTypeToDb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -25,6 +25,19 @@ namespace BulkyBookWeb.Migrations
                 {
                     table.PrimaryKey("PK_Categories", x => x.Id);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "CoverTypes",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_CoverTypes", x => x.Id);
+                });
         }
 
         /// <inheritdoc />
@@ -32,6 +45,9 @@ namespace BulkyBookWeb.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Categories");
+
+            migrationBuilder.DropTable(
+                name: "CoverTypes");
         }
     }
 }
