@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aTnT4zxIx2cEa+nnkHfdctnUYtxULg6snx2CimKVQ+s=",
+  "Hash": "HuMrsCvi5ePb9XJMZUFsd6GRx62fByvsjffCmDPCUDQ=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\Images\\Products\\da741417-2420-450c-b7f3-4aa05b21db3c.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "Images/Products/da741417-2420-450c-b7f3-4aa05b21db3c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\da741417-2420-450c-b7f3-4aa05b21db3c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\Product.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/Product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Product.js"
     },
     {
       "Identity": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",

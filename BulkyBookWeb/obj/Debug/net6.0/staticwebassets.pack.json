@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\Images\\Products\\da741417-2420-450c-b7f3-4aa05b21db3c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\da741417-2420-450c-b7f3-4aa05b21db3c.jpg"
+    },
+    {
       "Id": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
     },
     {
       "Id": "C:\\Users\\belch\\OneDrive\\dotNET projects\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
